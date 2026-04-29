@@ -1,7 +1,7 @@
 # SmartTax POS
 
 ## 🚀 Live Demo
-👉 smarttax-pos-qpbz.vercel.app
+👉 "smarttax-pos-qpbz.vercel.app"
 
 # React + TypeScript + Vite
 
